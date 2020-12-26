@@ -1,7 +1,28 @@
 #EXTM3U
 #EXTINF:-1, NAME
 url
-#EXTINF:-1, NAME
-url
-#EXTINF:-1, NAME
-url
+#EXTINF:-1 tvg-language="Tamil" tvg-logo="" group-title="IBC", IBC Comedy
+https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8
+#EXTINF:-1 tvg-language="Tamil" tvg-logo="" group-title="IBC", IBC Tamil
+https://ibctamil-live.ibctamil.com/transcode/ibctamil.m3u8
+#EXTINF:-1 tvg-language="Tamil" tvg-logo="" group-title="IBC", IBC Kids
+https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+
+#EXTINF:-1 tvg-language="Tamil" tvg-logo="" group-title="", Akaram TV
+http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
+#EXTINF:-1 tvg-language="Tamil" tvg-logo="" group-title="", Akaram Kids
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-language="" tvg-logo="" group-title="Entertainment", NAME
+LINK
+#EXTINF:-1 tvg-language="" tvg-logo="" group-title="Entertainment", NAME
+LINK
+#EXTINF:-1 tvg-language="" tvg-logo="" group-title="Entertainment", NAME
+LINK
+#EXTINF:-1 tvg-language="" tvg-logo="" group-title="Entertainment", NAME
+LINK
+#EXTINF:-1 tvg-language="" tvg-logo="" group-title="Entertainment", NAME
+LINK
+#EXTINF:-1 tvg-language="" tvg-logo="" group-title="Entertainment", NAME
+LINK
+#EXTINF:-1 tvg-language="" tvg-logo="" group-title="Entertainment", NAME
+LINK
