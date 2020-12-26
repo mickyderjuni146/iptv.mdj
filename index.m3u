@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, MickyDerJuni IPTV
-url
+https://raw.githubusercontent.com/mickyderjuni146/iptv.mdj/main/index.m3u
 
 #EXTINF:-1 tvg-language="Tamil" tvg-logo="" group-title="IBC", IBC Comedy
 https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8
